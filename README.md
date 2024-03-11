@@ -1,0 +1,2 @@
+# sum-plphongpctcr
+Sum fucntion
